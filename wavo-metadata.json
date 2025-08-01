@@ -1,0 +1,11 @@
+{
+  "name": "WAVO",
+  "symbol": "WAVO",
+  "description": "WAVO — decentralized voice of collective will",
+  "image": "https://raw.githubusercontent.com/WAVOPLATFORM/Media/main/WAVO_logo_512.png",
+  "decimals": 6,
+  "extensions": {
+    "website": "https://wavoplatform.com",
+    "telegram": "https://t.me/wavoplatform_Chat"
+  }
+}
